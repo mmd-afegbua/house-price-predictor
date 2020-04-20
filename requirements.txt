@@ -4,5 +4,4 @@ pandas
 scikit-learn == 0.20.2
 pylint
 pytest
-black
 ipython
