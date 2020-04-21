@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=predict:v1.0
+docker build --tag=predict:v1.0 .
 
 # Step 2: 
 # List docker images
